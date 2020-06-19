@@ -1,0 +1,29 @@
+{
+  "items" : [
+    {
+      "img": "lib/images/3a-1024x762.jpg",
+      "alt" : "Owl Image 1"
+    },
+    {
+      "img": "lib/images/3a-1024x762.jpg",
+      "alt" : "Owl Image 2"
+    },
+    {
+      "img": "lib/images/3a-1024x762.jpg",
+      "alt" : "Owl Image 1"
+    },
+    {
+      "img": "lib/images/3a-1024x762.jpg",
+      "alt" : "Owl Image 2"
+    },
+    {
+      "img": "lib/images/3a-1024x762.jpg",
+      "alt" : "Owl Image 1"
+    },
+    {
+      "img": "lib/images/3a-1024x762.jpg",
+      "alt" : "Owl Image 2"
+    }
+  ]
+}
+
